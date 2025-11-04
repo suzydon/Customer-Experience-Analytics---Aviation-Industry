@@ -5,6 +5,9 @@ End-to-end data analysis pipeline for customer satisfaction prediction and insig
 A comprehensive machine learning project predicting airline passenger satisfaction using ensemble methods, achieving 95.69% F1-score through systematic feature engineering and model optimization.
 Key Achievement: Near-perfect classification (F1: 0.9569, ROC-AUC: 0.9947) with actionable business insights driving $50-80M projected ROI.
 
+<img width="2958" height="2518" alt="04_performance_radar" src="https://github.com/user-attachments/assets/31dfc568-a5fd-4d80-ad30-57fdfca9f761" />
+<img width="2957" height="2361" alt="roc_curve_large" src="https://github.com/user-attachments/assets/93fca4f1-ed4b-44ab-bb2c-adc3b1195522" />
+
 - Overview
 This project develops a binary classification model to predict airline passenger satisfaction based on 23 features including demographics, travel details, and 14 service quality ratings.
 Problem Statement
@@ -20,7 +23,9 @@ Customer retention strategies
 2. 17 engineered features based on domain knowledge
 3. Rigorous validation: 10-fold CV with 0.002 std
 4. Interpretable insights: Feature importance analysis
-5. Business value: ROI-prioritized recommendations
+5. Business value: ROI-priorit
+<img width="3570" height="2070" alt="08_business_insights" src="https://github.com/user-attachments/assets/0ebb3c54-4b12-46f0-820f-964f0cd3d141" />
+ized recommendations
 
 - Methodology
 1. Data Preprocessing
@@ -65,6 +70,7 @@ python{
     'n_estimators': 200,
     'subsample': 1.0
 }
+<img width="3570" height="1770" alt="07_cross_validation_stability" src="https://github.com/user-attachments/assets/87e1f171-0dfb-4370-b433-6ab0324a37d9" />
 
 - Business Impact
 Key Findings
@@ -84,6 +90,10 @@ Customer retention improvement: 15-20%
 Satisfaction increase: 12-18 percentage points
 Net Promoter Score gain: 20-30 points
 
+<img width="1000" height="800" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/71e69cba-ac82-4cfc-8113-54a15c222e7f" />
+<img width="1200" height="1000" alt="quantitative_correlation" src="https://github.com/user-attachments/assets/19da3fbd-e58b-45a6-8f02-1cb1e2b2d9a5" />
+<img width="1000" height="800" alt="flight_distance_vs_arrival_delay" src="https://github.com/user-attachments/assets/4dcc87bf-7d31-4f26-8ec5-19cd22a7f7fd" />
+<img width="4769" height="1770" alt="06_optimization_comparison" src="https://github.com/user-attachments/assets/657340ca-a555-4aa1-86a0-4003947c2422" />
 
 - Technologies
 Core Libraries
