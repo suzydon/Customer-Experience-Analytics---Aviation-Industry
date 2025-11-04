@@ -27,6 +27,7 @@ Customer retention strategies
 <img width="570" height="570" alt="08_business_insights" src="https://github.com/user-attachments/assets/0ebb3c54-4b12-46f0-820f-964f0cd3d141" />
 
 <img width="570" height="570" alt="07_cross_validation_stability" src="https://github.com/user-attachments/assets/87e1f171-0dfb-4370-b433-6ab0324a37d9" />
+
 ized recommendations
 
 - Methodology
