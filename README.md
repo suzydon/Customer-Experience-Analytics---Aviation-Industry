@@ -5,8 +5,8 @@ End-to-end data analysis pipeline for customer satisfaction prediction and insig
 A comprehensive machine learning project predicting airline passenger satisfaction using ensemble methods, achieving 95.69% F1-score through systematic feature engineering and model optimization.
 Key Achievement: Near-perfect classification (F1: 0.9569, ROC-AUC: 0.9947) with actionable business insights driving $50-80M projected ROI.
 
-<img width="2958" height="2518" alt="04_performance_radar" src="https://github.com/user-attachments/assets/31dfc568-a5fd-4d80-ad30-57fdfca9f761" />
-<img width="2957" height="2361" alt="roc_curve_large" src="https://github.com/user-attachments/assets/93fca4f1-ed4b-44ab-bb2c-adc3b1195522" />
+<img width="958" height="518" alt="04_performance_radar" src="https://github.com/user-attachments/assets/31dfc568-a5fd-4d80-ad30-57fdfca9f761" />
+<img width="957" height="361" alt="roc_curve_large" src="https://github.com/user-attachments/assets/93fca4f1-ed4b-44ab-bb2c-adc3b1195522" />
 
 - Overview
 This project develops a binary classification model to predict airline passenger satisfaction based on 23 features including demographics, travel details, and 14 service quality ratings.
