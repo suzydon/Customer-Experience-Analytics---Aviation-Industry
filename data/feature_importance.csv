@@ -1,0 +1,38 @@
+feature,importance
+Online boarding,0.33963394
+Service_Max,0.17481638
+Travel_Type_Encoded,0.12173764
+Inflight wifi service,0.08217632
+Customer_Type_Encoded,0.042743735
+Class_Encoded,0.040310662
+Inflight entertainment,0.025680074
+Leg room service,0.015503923
+Cleanliness,0.014846389
+Checkin service,0.014775607
+Gate location,0.0141665535
+Baggage handling,0.011440796
+Inflight service,0.010461308
+On-board service,0.010214242
+Seat comfort,0.010126493
+Departure/Arrival time convenient,0.008557599
+Age,0.006415312
+Ease of Online booking,0.006236166
+Class_Distance_Interaction,0.0062116846
+High_Service_Count,0.0059576877
+Arrival Delay in Minutes,0.0053364844
+Distance_Category,0.004503676
+Food and drink,0.0028568995
+Service_Mean,0.0027421527
+Service_Min,0.0026418597
+Age_Service_Interaction,0.002586968
+Service_Std,0.002568042
+Flight Distance,0.0024909251
+Total_Delay,0.0023167008
+Service_Range,0.0022868374
+Low_Service_Count,0.002283907
+Gender_Encoded,0.0018126267
+Delay_Difference,0.0018061255
+Departure Delay in Minutes,0.0017542279
+Severe_Delay,0.0
+Age_Group,0.0
+Has_Delay,0.0
