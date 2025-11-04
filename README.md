@@ -16,11 +16,11 @@ Customer retention strategies
 
 - Key Highlights
 
-✅ 10 algorithms systematically evaluated
-✅ 17 engineered features based on domain knowledge
-✅ Rigorous validation: 10-fold CV with 0.002 std
-✅ Interpretable insights: Feature importance analysis
-✅ Business value: ROI-prioritized recommendations
+1. 10 algorithms systematically evaluated
+2. 17 engineered features based on domain knowledge
+3. Rigorous validation: 10-fold CV with 0.002 std
+4. Interpretable insights: Feature importance analysis
+5. Business value: ROI-prioritized recommendations
 
 - Methodology
 1. Data Preprocessing
